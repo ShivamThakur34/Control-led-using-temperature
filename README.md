@@ -1,3 +1,6 @@
+
+This above code is that when the temperature of DHT22 sensor meets certain conditions , then the 4 legged led change their colour depending on that as well as the buzzer makes sound on the same.
+
 # DHT sensor library [![Build Status](https://github.com/adafruit/DHT-sensor-library/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/DHT-sensor-library/actions)
 
 ## Description
